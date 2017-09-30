@@ -16,18 +16,7 @@
                         </ul>
                     </div>
                     <div class="float--right float--xs-none text-xs-center">
-                        <!-- <ul class="header--topbar-action nav">
-                            <li><a href="login.html"><i class="fa fm fa-user-o"></i>Login/Register</a></li>
-                        </ul> -->
-                            <!-- <ul class="header--topbar-lang nav">
-                                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fm fa-language"></i>English<i class="fa flm fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="#">English</a></li>
-                                        <li><a href="#">Spanish</a></li>
-                                        <li><a href="#">French</a></li>
-                                    </ul>
-                                </li>
-                            </ul> -->
+                     
                         <ul class="header--topbar-social nav hidden-sm hidden-xxs">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -60,11 +49,11 @@
                             <li class="dropdown megamenu filter"> <a href="world-news.html" class="dropdown-toggle" data-toggle="dropdown">Selebriti<i class=""></i></a>
                                 
                             </li>
-                            <li><a href="national.html">Gaya Hidup</a></li>
-                            <li><a href="financial.html">Kesehatan</a></li>
-                            <li><a href="entertainment.html">Kuliner</a></li>
-                            <li><a href="lifestyle.html">Insani</a></li>
-                            <li><a href="technology.html">Solusi</a></li>
+                            <li><a href="<?=base_url();?>frontend/home/gayahidup">Gaya Hidup</a></li>
+                            <li><a href="<?=base_url();?>financial.html">Kesehatan</a></li>
+                            <li><a href="<?=base_url();?>entertainment.html">Kuliner</a></li>
+                            <li><a href="<?=base_url();?>lifestyle.html">Insani</a></li>
+                            <li><a href="<?=base_url();?>technology.html">Solusi</a></li>
                             <li class="dropdown megamenu posts"> <a href="travel.html" class="dropdown-toggle" data-toggle="dropdown">Gaya Hidup<i class=""></i></a>
                                
                             </li>
