@@ -139,22 +139,22 @@
             } catch (e) {}
         }(document);
     </script>
-    <script src="assets/js/jquery-3.2.1.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.sticky.min.js"></script>
-    <script src="assets/js/jquery.hoverIntent.min.js"></script>
-    <script src="assets/js/jquery.marquee.min.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/isotope.min.js"></script>
-    <script src="assets/js/resizesensor.min.js"></script>
-    <script src="assets/js/theia-sticky-sidebar.min.js"></script>
-    <script src="assets/js/jquery.zoom.min.js"></script>
-    <script src="assets/js/jquery.barrating.min.js"></script>
-    <script src="assets/js/jquery.countdown.min.js"></script>
-    <script src="assets/js/retina.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery-3.2.1.min.js"></script>
+    <script src="<?=base_url();?>assets/js/bootstrap.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.sticky.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.hoverIntent.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.marquee.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.validate.min.js"></script>
+    <script src="<?=base_url();?>assets/js/isotope.min.js"></script>
+    <script src="<?=base_url();?>assets/js/resizesensor.min.js"></script>
+    <script src="<?=base_url();?>assets/js/theia-sticky-sidebar.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.zoom.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.barrating.min.js"></script>
+    <script src="<?=base_url();?>assets/js/jquery.countdown.min.js"></script>
+    <script src="<?=base_url();?>assets/js/retina.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK9f7sXWmqQ1E-ufRXV3VpXOn_ifKsDuc"></script>
-    <script src="assets/js/color-switcher.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="<?=base_url();?>assets/js/color-switcher.min.js"></script>
+    <script src="<?=base_url();?>assets/js/main.js"></script>
 </body>
 <!-- Mirrored from themelooks.us/demo/usnews/html/home-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Sep 2017 14:14:34 GMT -->
 
